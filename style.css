@@ -1,0 +1,38 @@
+h1 {
+	color: #307fb8;
+}
+div {
+	border: solid #0c3066 4px;
+	background:#5a95ed ;
+	padding-bottom: 25px;
+}
+h2 {
+	color: white;
+	margin-left:20px ;
+}
+a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-left: 49px;
+}
+.about_me {
+	color: black;
+	margin-left: 0px;
+}
+img {
+	width: 350px;
+	border-radius:30px ;
+}
+p {
+	font-style: italic;
+}
+.picture {
+	color: red;
+}
+ul {
+	list-style-type: square;
+}
+span {
+	font-style: normal;
+}
